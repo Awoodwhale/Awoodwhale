@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Awoodwhale
 
-<!--
-**Awoodwhale/Awoodwhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>
+<a href="http://www.woodwhale.top"><img src="https://img.shields.io/badge/blog-%E6%9C%A8%E9%B2%B8%E7%9A%84%E8%AE%B0%E5%BD%95-blue"/></a>
+<a href="https://blog.csdn.net/woodwhale"><img src="https://img.shields.io/badge/blog-csdn-red"/></a>
+<a href="https://space.bilibili.com/32149768"><img src="https://img.shields.io/badge/video-bilibili-pink"/></a>
+</p>                     
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+![Awoodwhale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awoodwhale&show_icons=true&theme=radical)
+
