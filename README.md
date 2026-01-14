@@ -1,4 +1,4 @@
-### Hi there 👋 Awoodwhale
+### Hi there 👋 I'm Awoodwhale 🐳
 
 
 <p>
@@ -8,6 +8,10 @@
 
 
 
+![Awoodwhale's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Awoodwhale&show_icons=true&theme=github_dark)
 
-![Awoodwhale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awoodwhale&show_icons=true&theme=radical)
 
+![Awoodwhale's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Awoodwhale&layout=compact&theme=github_dark)
+
+
+![Awoodwhale's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Awoodwhale&theme=github_dark)
